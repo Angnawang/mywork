@@ -10,7 +10,7 @@ namespace learning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" this is my first test ");
+            Console.WriteLine(" this is my first test.  this is second test ");
         }
     }
 }
